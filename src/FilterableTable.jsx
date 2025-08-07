@@ -56,7 +56,7 @@ function DatabaseQuery({ instanceName }) {
   // 查詢參數，當它變化時觸發 API 請求
   const [queryParams, setQueryParams] = useState({});
 
-  const [dateOptions, setDateOptions] = useState([]);
+  // const [dateOptions, setDateOptions] = useState([]);
   // 當選擇資料庫改變時，更新可用資料表清單和預設資料表
   useEffect(() => {
     setAvailableTables(dbTables[selectedDatabase]);
