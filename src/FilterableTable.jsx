@@ -74,7 +74,7 @@ function DatabaseQuery({ instanceName }) {
 
     // 組 API URL，假設格式為 http://ip:port/資料表名稱
     // let url = `${process.env.REACT_APP_etfgoup4}/${queryParams.table}`;
-    let url = `http://35.206.205.183:8888/${queryParams.table}`;
+    let url = `https://35.206.205.183:8888/${queryParams.table}`;
 
     // 組查詢參數字串
     const params = [];
