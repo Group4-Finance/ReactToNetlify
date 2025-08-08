@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactToNetlify/static/css/main.e6c13ad2.css",
-    "main.js": "/ReactToNetlify/static/js/main.eff235bf.js",
+    "main.js": "/ReactToNetlify/static/js/main.26a2aa85.js",
     "static/js/453.99c0bf39.chunk.js": "/ReactToNetlify/static/js/453.99c0bf39.chunk.js",
     "index.html": "/ReactToNetlify/index.html",
     "main.e6c13ad2.css.map": "/ReactToNetlify/static/css/main.e6c13ad2.css.map",
-    "main.eff235bf.js.map": "/ReactToNetlify/static/js/main.eff235bf.js.map",
+    "main.26a2aa85.js.map": "/ReactToNetlify/static/js/main.26a2aa85.js.map",
     "453.99c0bf39.chunk.js.map": "/ReactToNetlify/static/js/453.99c0bf39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.eff235bf.js"
+    "static/js/main.26a2aa85.js"
   ]
 }
