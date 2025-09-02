@@ -11,7 +11,9 @@ npm build
   "homepage": "https://Group4-Finance.github.io/ReactToNetlify",
 
   "scripts": {
+  
     "predeploy": "npm run build"    
+    
     "deploy": "gh-pages -d build"
     
   }
