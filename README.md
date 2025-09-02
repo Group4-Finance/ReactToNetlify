@@ -9,10 +9,14 @@ npm build
 
    {
   "homepage": "https://<你的 GitHub 用戶名>.github.io/<repo名>/",
+
   "scripts": {
+  
     "predeploy": "npm run build",
+    
     "deploy": "gh-pages -d build"
+    
   }
 }
 
-3. npm run deploy
+4. npm run deploy
