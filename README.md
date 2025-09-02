@@ -8,12 +8,10 @@ npm build
 2. 在 package.json 加上設定
 
    {
-  "homepage": "https://<你的 GitHub 用戶名>.github.io/<repo名>/",
+  "homepage": "https://Group4-Finance.github.io/ReactToNetlify",
 
   "scripts": {
-  
-    "predeploy": "npm run build",
-    
+    "predeploy": "npm run build"    
     "deploy": "gh-pages -d build"
     
   }
