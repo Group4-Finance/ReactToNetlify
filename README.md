@@ -3,7 +3,8 @@ npm start
 ## 建立封包
 npm build
 ## 儲存到gh-pages分支
-1. npm install --save-dev gh-pages
+1. 安裝工具
+   npm install --save-dev gh-pages
 
 2. 在 package.json 加上設定
 
@@ -17,4 +18,5 @@ npm build
 }
 </pre>
 
-3. npm run deploy
+3. 部屬
+   npm run deploy
