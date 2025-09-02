@@ -11,7 +11,7 @@ npm build
 
 <pre>
 {
-  "homepage": "https://Group4-Finance.github.io/ReactToNetlify",
+  "homepage": "https://<GitHub 使用者名稱>.github.io/<repo名稱>",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
