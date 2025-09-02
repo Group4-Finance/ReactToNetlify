@@ -7,19 +7,13 @@ npm build
 
 2. 在 package.json 加上設定
 
-   {
-
-   
+```json
+{
   "homepage": "https://Group4-Finance.github.io/ReactToNetlify",
-
   "scripts": {
-  
-    "predeploy": "npm run build"    
-    
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-    
   }
-  
 }
 
-4. npm run deploy
+3. npm run deploy
