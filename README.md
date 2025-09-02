@@ -8,6 +8,7 @@ npm build
 2. 在 package.json 加上設定
 
    {
+
    
   "homepage": "https://Group4-Finance.github.io/ReactToNetlify",
 
@@ -18,6 +19,7 @@ npm build
     "deploy": "gh-pages -d build"
     
   }
+  
 }
 
 4. npm run deploy
