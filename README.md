@@ -11,7 +11,7 @@ npm build
 
 <pre>
 {
-  "homepage": "https://`<GitHub使用者名稱>`.github.io/`<repo名稱>`",
+  "homepage": "https://&lt;GitHub使用者名稱&gt;.github.io/&lt;repo名稱&gt;",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
