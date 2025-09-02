@@ -13,6 +13,8 @@ npm build
 {
   "homepage": "https://Group4-Finance.github.io/ReactToNetlify",
   "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   }
@@ -22,3 +24,5 @@ npm build
 3. 部屬
 
     npm run deploy
+## 設定github pages
+點進settings -> 左邊欄位點擊pages -> 設定branch為 gh-pages 分支
